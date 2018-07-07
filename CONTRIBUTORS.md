@@ -4,6 +4,8 @@
 
 -[@samirjouni](https://github.com/samirjouni)
 
+-[@ccmurdoc](https://github.com/ccmurdoc)
+
 -[@aneagoie](https://github.com/aneagoie)
 
 -[@drood87](https://github.com/drood87)
@@ -1114,17 +1116,19 @@
 
 -[@Biker981  ](https://github.com/Biker981)
 
+-[@ManojSilag](https://github.com/ManojSilag)
+
 -[@pixzels](https://github.com/pixzels)
 
 -[@pablowbk](https://github.com/pablowbk)
 
--[@psergiogps](https://github.com/psergiogps) 
+-[@psergiogps](https://github.com/psergiogps)
 
 -[@dokoede](https://github.com/dokoede)
 
--[@anexis45](https://github.com/anexis45) 
+-[@anexis45](https://github.com/anexis45)
 
--[@johnoct](https://github.com/johnoct) 
+-[@johnoct](https://github.com/johnoct)
 
 -[@mikewarden](https://github.com/mikewarden)
 
@@ -1135,3 +1139,28 @@
 -[@cobimr](https://github.com/cobimr)
 
 -[@lkre0](https://github.com/lkre0)
+
+-[@fuadmmnf](https://github.com/fuadmmnf)
+
+-[@shkaur](https://github.com/shkaur)
+
+-[@Mona95](https://github.com/Mona95)
+
+-[@glenndev](https://github.com/glenndev)
+
+-[@Angelicos](https://github.com/Angelicos)
+
+-[@nipun24](https://github.com/nipun24)
+
+-[@charlesmoscofian](https://github.com/charlesmoscofian)
+
+-[@kgerdt](https://github.com/kgerdt)
+
+-[@ChristianMarca](https://github.com/ChristianMarca)
+
+-[@abavish](https://github.com/abavish)
+
+-[@makaaboune](https://github.com/makaaboune)
+
+-[@JorgeG1105](https://github.com/JorgeG1105)
+
